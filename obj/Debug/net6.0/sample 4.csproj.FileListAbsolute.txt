@@ -1,0 +1,16 @@
+C:\Users\eli\Desktop\sample 4\obj\Debug\net6.0\sample 4.GlobalUsings.g.cs
+C:\Users\eli\Desktop\sample 4\obj\Debug\net6.0\sample 4.csproj.AssemblyReference.cache
+C:\Users\eli\Desktop\sample 4\obj\Debug\net6.0\sample 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eli\Desktop\sample 4\obj\Debug\net6.0\sample 4.AssemblyInfoInputs.cache
+C:\Users\eli\Desktop\sample 4\obj\Debug\net6.0\sample 4.AssemblyInfo.cs
+C:\Users\eli\Desktop\sample 4\obj\Debug\net6.0\sample 4.csproj.CoreCompileInputs.cache
+C:\Users\eli\Desktop\sample 4\bin\Debug\net6.0\sample 4.exe
+C:\Users\eli\Desktop\sample 4\bin\Debug\net6.0\sample 4.deps.json
+C:\Users\eli\Desktop\sample 4\bin\Debug\net6.0\sample 4.runtimeconfig.json
+C:\Users\eli\Desktop\sample 4\bin\Debug\net6.0\sample 4.dll
+C:\Users\eli\Desktop\sample 4\bin\Debug\net6.0\ref\sample 4.dll
+C:\Users\eli\Desktop\sample 4\bin\Debug\net6.0\sample 4.pdb
+C:\Users\eli\Desktop\sample 4\obj\Debug\net6.0\sample 4.dll
+C:\Users\eli\Desktop\sample 4\obj\Debug\net6.0\ref\sample 4.dll
+C:\Users\eli\Desktop\sample 4\obj\Debug\net6.0\sample 4.pdb
+C:\Users\eli\Desktop\sample 4\obj\Debug\net6.0\sample 4.genruntimeconfig.cache
